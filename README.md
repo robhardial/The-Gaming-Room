@@ -1,1 +1,3 @@
 # The-Gaming-Room
+
+The client Gaming Room wanted to develop a web-based game that served multiple platforms based on their current game, Draw It or Lose It, which is currently available in an Android app only. The application rendered images from a large library of stock drawings as clues and teams had to compete to guess what is being drawn. An aspect of the documentation I did well was evaluate the various platforms for their characteristics, advantages, and weaknesses for hosting a web-based software application. I used research to find the characteristics of each platform and compared how they would perform for hosting the application. 
